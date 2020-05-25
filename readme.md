@@ -1,7 +1,8 @@
 # crawl replies and retweets with comments (quotes) of a tweet
 ## Usage
 Most importantly, downloading the tweets can be done by
-```./load_tweet_reactions.sh $TWEET_ID
+```
+./load_tweet_reactions.sh $TWEET_ID
 ```
 
 To combine and unique downloaded tweets, you can use
